@@ -13,10 +13,10 @@
 
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/Suwayomi/Tachidesk-Sorayomi)](https://github.com/Suwayomi/Tachidesk-Sorayomi)
-[![GitHub License](https://img.shields.io/github/license/Suwayomi/Tachidesk-Sorayomi)](https://github.com/Suwayomi/Tachidesk-Sorayomi/blob/main/LICENSE)
-![CI](https://github.com/Suwayomi/Tachidesk-Sorayomi/actions/workflows/publish.yml/badge.svg)
-[![stable release](https://img.shields.io/github/release/Suwayomi/Tachidesk-Sorayomi.svg?maxAge=3600&label=download)](https://github.com/Suwayomi/Tachidesk-Sorayomi/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/Cat-Ling/Tachidesk-Sorayomi)](https://github.com/Cat-Ling/Tachidesk-Sorayomi)
+[![GitHub License](https://img.shields.io/github/license/Cat-Ling/Tachidesk-Sorayomi)](https://github.com/Cat-Ling/Tachidesk-Sorayomi/blob/main/LICENSE)
+![CI](https://github.com/Cat-Ling/Tachidesk-Sorayomi/actions/workflows/publish.yml/badge.svg)
+[![stable release](https://img.shields.io/github/release/Cat-Ling/Tachidesk-Sorayomi.svg?maxAge=3600&label=download)](https://github.com/Cat-Ling/Tachidesk-Sorayomi/releases)
 
 </div>
 
@@ -126,7 +126,7 @@ You can install Flutter & Dart from [Official website](https://docs.flutter.dev/
 1.  Clone the repository:
 
 ```
-  $ git clone https://github.com/Suwayomi/Tachidesk-Sorayomi.git
+  $ git clone https://github.com/Cat-Ling/Tachidesk-Sorayomi.git
   $ cd Tachidesk-Sorayomi/
 ```
 2.  You can install all dependencies by running this command in terminal:
@@ -195,6 +195,6 @@ You can obtain a copy of `Mozilla Public License v2.0` from https://mozilla.org/
     file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-[release]: https://github.com/Suwayomi/Tachidesk-Sorayomi/releases
+[release]: https://github.com/Cat-Ling/Tachidesk-Sorayomi/releases
 [suwayomi-server]: https://github.com/Suwayomi/Suwayomi-Server
 [suwayomi-server-preview]: https://github.com/Suwayomi/Suwayomi-Server-preview/releases

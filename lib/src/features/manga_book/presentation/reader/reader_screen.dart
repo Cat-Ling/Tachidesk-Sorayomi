@@ -272,17 +272,20 @@ class ReaderScreen extends HookConsumerWidget {
                                     showReaderLayoutAnimation,
                                 chapterPages: chapterPagesData,
                               ),
-                          }
+                          },
+                        _ => const SizedBox.shrink(),
                       };
                     },
+                    refresh: () => ref.invalidate(chapterPagesProvider(chapterId: chapterId)),
+                    addScaffoldWrapper: true,
                   );
                 },
-                refresh: () => ref.refresh(chapterProviderWithIndex.future),
+                refresh: () => ref.invalidate(chapterProviderWithIndex),
                 addScaffoldWrapper: true,
               );
             },
             addScaffoldWrapper: true,
-            refresh: () => ref.refresh(mangaProvider.future),
+            refresh: () => ref.invalidate(mangaProvider),
           ),
         ),
       ),

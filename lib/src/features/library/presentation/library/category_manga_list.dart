@@ -118,9 +118,11 @@ class CategoryMangaList extends HookConsumerWidget {
                   );
                   refresh();
                 },
+                },
                 showBadges: true,
               ),
-            )
+            ),
+          _ => const SizedBox.shrink(),
         };
         return RefreshIndicator(
           onRefresh: () async => refresh(),

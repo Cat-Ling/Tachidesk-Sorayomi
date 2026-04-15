@@ -5,16 +5,16 @@
 // file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 enum AppUrls {
-  sorayomiGithubUrl(url: "https://github.com/Suwayomi/Tachidesk-Sorayomi"),
+  sorayomiGithubUrl(url: "https://github.com/Cat-Ling/Tachidesk-Sorayomi"),
   sorayomiLatestReleaseUrl(
-      url: "https://github.com/Suwayomi/Tachidesk-Sorayomi/releases/latest"),
+      url: "https://github.com/Cat-Ling/Tachidesk-Sorayomi/releases/latest"),
   tachideskHelp(url: "https://github.com/Suwayomi/suwayomi-Server/wiki"),
   tachideskReddit(url: "https://www.reddit.com/r/Tachidesk"),
   sorayomiWhatsNew(
-      url: "https://github.com/Suwayomi/Tachidesk-Sorayomi/releases/tag/"),
+      url: "https://github.com/Cat-Ling/Tachidesk-Sorayomi/releases/tag/"),
   sorayomiLatestReleaseApiUrl(
     url:
-        "https://api.github.com/repos/Suwayomi/Tachidesk-Sorayomi/releases/latest",
+        "https://api.github.com/repos/Cat-Ling/Tachidesk-Sorayomi/releases/latest",
   ),
   flareSolverr(
       url:

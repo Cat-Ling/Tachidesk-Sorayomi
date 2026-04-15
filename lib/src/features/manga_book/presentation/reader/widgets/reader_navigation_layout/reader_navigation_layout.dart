@@ -95,6 +95,7 @@ class ReaderNavigationLayoutWidget extends HookConsumerWidget {
       ReaderNavigationLayout.disabled ||
       null =>
         const SizedBox.shrink(),
+      _ => const SizedBox.shrink(),
     };
   }
 }
